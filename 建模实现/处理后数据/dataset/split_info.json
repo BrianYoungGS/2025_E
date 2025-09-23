@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "total_folds": 10,
+    "total_folders": 805,
+    "expected_total": 805,
+    "random_seed": 42,
+    "description": "完整的K折交叉验证划分，包含raw_data(322个)和renamed_segments(483个)的所有805个数据文件夹"
+  },
+  "fold_statistics": [
+    {
+      "fold_number": 1,
+      "total_folders": 81,
+      "fault_distribution": {
+        "OR": 39,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    },
+    {
+      "fold_number": 2,
+      "total_folders": 81,
+      "fault_distribution": {
+        "OR": 39,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    },
+    {
+      "fold_number": 3,
+      "total_folders": 81,
+      "fault_distribution": {
+        "OR": 39,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    },
+    {
+      "fold_number": 4,
+      "total_folders": 81,
+      "fault_distribution": {
+        "OR": 39,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    },
+    {
+      "fold_number": 5,
+      "total_folders": 81,
+      "fault_distribution": {
+        "OR": 39,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    },
+    {
+      "fold_number": 6,
+      "total_folders": 80,
+      "fault_distribution": {
+        "OR": 38,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    },
+    {
+      "fold_number": 7,
+      "total_folders": 80,
+      "fault_distribution": {
+        "OR": 38,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    },
+    {
+      "fold_number": 8,
+      "total_folders": 80,
+      "fault_distribution": {
+        "OR": 38,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    },
+    {
+      "fold_number": 9,
+      "total_folders": 80,
+      "fault_distribution": {
+        "OR": 38,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    },
+    {
+      "fold_number": 10,
+      "total_folders": 80,
+      "fault_distribution": {
+        "OR": 38,
+        "IR": 20,
+        "B": 20,
+        "N": 2
+      }
+    }
+  ]
+}
