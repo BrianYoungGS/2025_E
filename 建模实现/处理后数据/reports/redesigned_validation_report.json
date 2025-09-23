@@ -1,0 +1,28 @@
+{
+  "total_segments": 305,
+  "complete_segments": 305,
+  "incomplete_segments": 0,
+  "completion_rate": 100.0,
+  "fault_type_distribution": {
+    "IR": 14,
+    "OR": 21,
+    "N": 4,
+    "B": 11
+  },
+  "sensor_type_distribution": {
+    "DE": 22,
+    "FE": 21,
+    "BA": 7
+  },
+  "data_length_stats": {
+    "min": 16083,
+    "max": 96000,
+    "mean": 37132.96,
+    "median": 24000.0
+  },
+  "quality_metrics": {
+    "length_compliance_rate": 94.0,
+    "features_valid_rate": 100.0,
+    "freq_analysis_valid_rate": 100.0
+  }
+}

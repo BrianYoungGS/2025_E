@@ -1,0 +1,14 @@
+{
+  "total_segments": 483,
+  "target_achieved": true,
+  "completion_rate": 100.0,
+  "length_compliance": 100.0,
+  "utilization_rate": 0.7667280569127516,
+  "overall_score": 5,
+  "fault_distribution": {
+    "B": 120,
+    "IR": 120,
+    "OR": 231,
+    "N": 12
+  }
+}

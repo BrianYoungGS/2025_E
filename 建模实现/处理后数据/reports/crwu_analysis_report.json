@@ -1,0 +1,334 @@
+{
+  "analysis_time": "2025-09-23T10:46:20.122838",
+  "crwu_dataset": {
+    "12kHz_DE": {
+      "count": 60,
+      "files": [
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0028/IR028_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0028/IR028_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0028/IR028_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0028/IR028_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0028/B028_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0028/B028_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0028/B028_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0028/B028_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0021/B021_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0021/B021_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0021/B021_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0021/B021_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0007/B007_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0007/B007_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0007/B007_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0007/B007_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0014/B014_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0014/B014_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0014/B014_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Ball/0014/B014_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Opposite/0021/OR021@12_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Opposite/0021/OR021@12_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Opposite/0021/OR021@12_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Opposite/0021/OR021@12_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Orthogonal/0021/248.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Orthogonal/0021/249.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Orthogonal/0021/247.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Orthogonal/0021/246.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Orthogonal/0007/145.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Orthogonal/0007/144.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Orthogonal/0007/146.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Outer Race/Orthogonal/0007/147.mat"
+      ]
+    },
+    "12kHz_FE": {
+      "count": 45,
+      "files": [
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0021/IR021_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0021/IR021_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0021/IR021_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0021/IR021_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0007/IR007_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0007/IR007_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0007/IR007_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0007/IR007_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0014/IR014_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0014/IR014_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0014/IR014_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0014/IR014_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0021/B021_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0021/B021_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0021/B021_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0021/B021_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0007/B007_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0007/B007_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0007/B007_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0007/B007_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0014/B014_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0014/B014_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0014/B014_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Ball/0014/B014_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0021/317.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0021/316.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0021/318.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0007/299.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0007/312.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0007/298.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0007/300.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0007/301.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0014/311.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0014/310.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Outer Race/Orthogonal/0014/313.mat"
+      ]
+    },
+    "48kHz_DE": {
+      "count": 52,
+      "files": [
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0021/IR021_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0021/IR021_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0021/IR021_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0007/IR007_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0007/IR007_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0007/IR007_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0007/IR007_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0014/IR014_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0014/IR014_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0014/IR014_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0014/IR014_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0021/B021_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0021/B021_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0021/B021_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0021/B021_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0007/B007_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0007/B007_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0007/B007_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0007/B007_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0014/B014_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0014/B014_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0014/B014_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Ball/0014/B014_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Opposite/0021/OR021@12_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Opposite/0021/OR021@12_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Opposite/0021/OR021@12_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Opposite/0021/OR021@12_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Opposite/0007/OR007@12_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0021/OR021@6_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0007/OR007@6_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Centered/0014/OR014@6_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Orthogonal/0021/OR021@3_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Orthogonal/0021/OR021@3_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Orthogonal/0021/OR021@3_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Orthogonal/0021/OR021@3_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Orthogonal/0007/OR007@3_0.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Orthogonal/0007/OR007@3_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Orthogonal/0007/OR007@3_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Outer Race/Orthogonal/0007/OR007@3_2.mat"
+      ]
+    },
+    "Normal": {
+      "count": 4,
+      "files": [
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/Normal Baseline/normal_2.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/Normal Baseline/normal_3.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/Normal Baseline/normal_1.mat",
+        "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/Normal Baseline/normal_0.mat"
+      ]
+    }
+  },
+  "source_dataset": {
+    "12kHz_DE": 60,
+    "12kHz_FE": 45,
+    "48kHz_DE": 52,
+    "48kHz_Normal": 4,
+    "Total": 161
+  },
+  "sample_analysis": {
+    "12kHz_DE": {
+      "path": "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Drive End Bearing Fault Data/Inner Race/0028/IR028_2.mat",
+      "variables": {
+        "X058_DE_time": {
+          "shape": [
+            121351,
+            1
+          ],
+          "dtype": "float64",
+          "size": 121351
+        }
+      }
+    },
+    "12kHz_FE": {
+      "path": "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/12k Fan End Bearing Fault Data/Inner Race/0021/IR021_1.mat",
+      "variables": {
+        "X271_DE_time": {
+          "shape": [
+            121168,
+            1
+          ],
+          "dtype": "float64",
+          "size": 121168
+        },
+        "X271_FE_time": {
+          "shape": [
+            121168,
+            1
+          ],
+          "dtype": "float64",
+          "size": 121168
+        },
+        "X271_BA_time": {
+          "shape": [
+            121168,
+            1
+          ],
+          "dtype": "float64",
+          "size": 121168
+        },
+        "X271RPM": {
+          "shape": [
+            1,
+            1
+          ],
+          "dtype": "uint16",
+          "size": 1
+        }
+      }
+    },
+    "48kHz_DE": {
+      "path": "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/48k Drive End Bearing Fault Data/Inner Race/0021/IR021_1.mat",
+      "variables": {
+        "X214_DE_time": {
+          "shape": [
+            485063,
+            1
+          ],
+          "dtype": "float64",
+          "size": 485063
+        },
+        "X214_FE_time": {
+          "shape": [
+            485063,
+            1
+          ],
+          "dtype": "float64",
+          "size": 485063
+        },
+        "X214RPM": {
+          "shape": [
+            1,
+            1
+          ],
+          "dtype": "uint16",
+          "size": 1
+        }
+      }
+    },
+    "Normal": {
+      "path": "/Users/gsyoung/MBP_documents/code/Matlab/研究生数学建模/CRWU/Normal Baseline/normal_2.mat",
+      "variables": {
+        "ans": {
+          "shape": [
+            1,
+            1
+          ],
+          "dtype": "uint8",
+          "size": 1
+        },
+        "X098_DE_time": {
+          "shape": [
+            483903,
+            1
+          ],
+          "dtype": "float64",
+          "size": 483903
+        },
+        "X098_FE_time": {
+          "shape": [
+            483903,
+            1
+          ],
+          "dtype": "float64",
+          "size": 483903
+        },
+        "X099_DE_time": {
+          "shape": [
+            485063,
+            1
+          ],
+          "dtype": "float64",
+          "size": 485063
+        },
+        "X099_FE_time": {
+          "shape": [
+            485063,
+            1
+          ],
+          "dtype": "float64",
+          "size": 485063
+        }
+      }
+    }
+  },
+  "compatibility": {
+    "file_format": true,
+    "data_structure": true,
+    "categories_match": true,
+    "can_extend": false,
+    "issues": [
+      "CRWU缺少48kHz_Normal类别"
+    ]
+  },
+  "recommendations": [
+    "⚠️ 需要先解决兼容性问题",
+    "⚠️ 可能需要调整数据处理流程",
+    "⚠️ 建议先处理少量样本验证",
+    "⚠️ 确保数据质量和一致性"
+  ]
+}

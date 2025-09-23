@@ -1,0 +1,26 @@
+{
+  "processing_time": "2025-09-23T10:33:51.184317",
+  "total_source_files": 161,
+  "total_segments_generated": 322,
+  "target_sampling_frequency": 12000,
+  "segment_length": 2048,
+  "filter_parameters": {
+    "highpass_cutoff": 10,
+    "lowpass_cutoff": 5000,
+    "notch_freq": 50,
+    "notch_q": 30
+  },
+  "feature_count": 29,
+  "fault_type_distribution": {
+    "IR": 80,
+    "OR": 154,
+    "N": 8,
+    "B": 80
+  },
+  "data_category_distribution": {
+    "48kHz_DE": 104,
+    "48kHz_Normal": 8,
+    "12kHz_FE": 90,
+    "12kHz_DE": 120
+  }
+}
