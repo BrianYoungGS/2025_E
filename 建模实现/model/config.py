@@ -432,3 +432,4 @@ if __name__ == "__main__":
             print(f"  模型类型: {full_config['model']['model_type'] if full_config['model'] else 'N/A'}")
         except Exception as e:
             print(f"  配置错误: {e}")
+
