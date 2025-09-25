@@ -1,0 +1,8 @@
+Uploading LFS objects: 100% (3239/3239), 749 MB | 807 KB/s, done.
+remote: error: Trace: 71473fb5c58d25b416fd4b83ed4bfafea759676070d6d8724fa5505b2dba9df5        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File 切片数据.tar.gz is 150.86 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To https://github.com/BrianYoungGS/2025_E.git
+ ! [remote rejected] main -> main (pre-receive hook declined)
+error: failed to push some refs to 'https://github.com/BrianYoungGS/2025_E.git'
